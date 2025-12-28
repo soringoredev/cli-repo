@@ -12,7 +12,7 @@ public class MagicRestController {
     @Value("${wizard.name}")
     private String wizardName;
 
-    @Value("${wizard.name}")
+    @Value("${wizard.house}")
     private String wizardHouse;
 
     @Value("${wizard.spell}")
